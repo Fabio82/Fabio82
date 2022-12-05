@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Fabio82
-- 👀 I’m interested in 3d modeling and printing, arduino, raspberry-pi, Linux, Philosophy(stoicism), music, guitar, drawing, lucid dreaming ...
-- 🌱 I’m currently learning kubernetes, python, autodesk fusion360
+- 👀 Guitar, running and kung fu.
+- 🌱 I’m currently learning kubernetes, python, and ...
 - 💞️ I’m looking for constantly improve myself as a technician and as a human
-- 📫 How to reach me ...
+- 📫 How to reach me : [@fabio8ne](https://twitter.com/fabio8ne)
 
 <!---
 Fabio82/Fabio82 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
